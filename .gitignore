@@ -10,7 +10,8 @@
 # specify (see the commented-out examples for hints on how to do this.)
 wp-content/plugins/*
 # !plugins/my-single-file-plugin.php
-# !plugins/my-directory-plugin/
+!plugins/truemag-movie/
+!plugins/truemag-rating/
 
 # Ignore everything in the "themes" directory, except the themes you
 # specify (see the commented-out example for a hint on how to do this.)
