@@ -1,0 +1,3 @@
+[submodule "themes/root"]
+	path = themes/root
+	url = https://github.com/retlehs/roots.git
